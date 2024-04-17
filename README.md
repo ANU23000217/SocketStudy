@@ -78,10 +78,6 @@ if ack:
 c.close()
 ```
 
-## OUTPUT :
-
-![image](https://github.com/ANU23000217/SocketStudy/assets/139117108/0a67a02c-5a73-48fb-aed0-875360e727c0)
-
 ## SERVER:
 ```
 import socket
@@ -94,8 +90,7 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## OUTPUT :
-![image](https://github.com/ANU23000217/SocketStudy/assets/139117108/6970e388-fbe7-4fb5-a12b-8d325bbaef2e)
-
+![Uploading Screenshot 2024-03-06 120050.png…]()
 
 
 ## Result:
