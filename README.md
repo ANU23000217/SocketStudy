@@ -90,7 +90,7 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## OUTPUT :
-![Uploading Screenshot 2024-03-06 120050.png…]()
+![Screenshot 2024-03-06 120050](https://github.com/ANU23000217/SocketStudy/assets/139117108/9483460d-4908-413f-95ab-a5a65fcef13d)
 
 
 ## Result:
